@@ -27,6 +27,9 @@ li{
 nav {
     margin-bottom: 50px;
 }
+.text1-banner {
+    background: rgb(206, 220, 229);
+}
 .banner-container {
     width: 1600px;
     height: 500px;
@@ -36,7 +39,6 @@ nav {
     padding-top: 80px;
 }
 #banner-news {
-    background: rgb(206, 220, 229);
     border-radius: 30px;
     width: 300px;
     text-align: center;
